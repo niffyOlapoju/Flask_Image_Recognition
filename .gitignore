@@ -1,2 +1,5 @@
-.venv/
-__pycache__/
+   .venv/
+   __pycache__/
+   .pytest_cache/
+   pylint_before.txt
+   pylint_after.txt
